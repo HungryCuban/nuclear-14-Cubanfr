@@ -1,7 +1,7 @@
 - type: loadout
   id: ClothingMaskBat
   category: Items
-  cost: 0
+  cost: 2
   requirements:
     - !type:CharacterItemGroupRequirement
       group: N14LoadoutMask
@@ -11,7 +11,7 @@
 - type: loadout
   id: ClothingMaskBear
   category: Items
-  cost: 0
+  cost: 2
   requirements:
     - !type:CharacterItemGroupRequirement
       group: N14LoadoutMask
@@ -21,7 +21,7 @@
 - type: loadout
   id: ClothingMaskBee
   category: Items
-  cost: 0
+  cost: 2
   requirements:
     - !type:CharacterItemGroupRequirement
       group: N14LoadoutMask
@@ -31,7 +31,7 @@
 - type: loadout
   id: ClothingMaskJackal
   category: Items
-  cost: 0
+  cost: 2
   requirements:
     - !type:CharacterItemGroupRequirement
       group: N14LoadoutMask
@@ -41,7 +41,7 @@
 - type: loadout
   id: ClothingMaskRat
   category: Items
-  cost: 0
+  cost: 2
   requirements:
     - !type:CharacterItemGroupRequirement
       group: N14LoadoutMask
@@ -51,7 +51,7 @@
 - type: loadout
   id: ClothingMaskRaven
   category: Items
-  cost: 0
+  cost: 2
   requirements:
     - !type:CharacterItemGroupRequirement
       group: N14LoadoutMask

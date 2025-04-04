@@ -23,7 +23,7 @@
 - type: loadout
   id: N14LoadoutNeckCloakDarkCloak
   category: Accessories
-  cost: 0
+  cost: 2
   exclusive: true
   requirements:
     - !type:CharacterItemGroupRequirement
